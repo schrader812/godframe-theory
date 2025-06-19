@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15696625.svg)](https://doi.org/10.5281/zenodo.15696625)
 # The Godframe Theory
 
 This repository contains the full theory, LaTeX source, and simulation-backed validation of the Godframe Echo Field — a scalar-field-based cosmological model unifying expansion, gravity, and dark matter.
